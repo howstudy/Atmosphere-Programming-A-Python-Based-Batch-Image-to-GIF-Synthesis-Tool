@@ -138,4 +138,5 @@ python gif_maker.py ./photos -o slideshow.gif -l 3
 
 MIT License - 可自由使用和修改
 
-##本项目完全由AI生成
+## 说明
+本项目完全由AI生成
